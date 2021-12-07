@@ -1,4 +1,6 @@
-# Member and Collaborator Repositories
+# Welcome to the Van Galen Lab Github page
+
+![banner](banner.jpg)
 
 Here we highlight software that was developed by Van Galen Lab members and collaborators.
 
