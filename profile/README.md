@@ -1,6 +1,6 @@
 # Welcome to the Van Galen Lab Github page
 
-![banner](.github/profile/banner.jpg)
+![banner](https://github.com/vangalenlab/.github/blob/f59c9f6d6234357b346c99a9b00ce3d77f9fb2f3/profile/banner.jpg)
 
 Here we highlight software that was developed by Van Galen Lab members and collaborators.
 
