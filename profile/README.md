@@ -13,7 +13,7 @@ Developed by Caleb Lareau, the maegatk package processes `.bam` files with mitoc
 ### [Mitochondrial variants](https://github.com/EDePasquale/Mitochondrial_variants)
 We developed a table of mitochondrial variants, their effects on the resultant proteins, and the potential functional consequences to assess the potential beneficial/detrimental consequences of mutations.
 
-### [MAESTER-2021](https://github.com/vangalenlab/MAESTER-2021)
+### [MAESTER-2021](https://github.com/petervangalen/MAESTER-2021)
 Various scripts used to analyze the data and generate figures for the paper.
 
 ## Project: BPDCN
