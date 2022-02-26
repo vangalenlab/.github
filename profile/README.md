@@ -5,7 +5,7 @@
 Here we highlight software that was developed by Van Galen Lab members and collaborators.
 
 ## Project: MAESTER
-Accompanying paper: Miller et al, Mitochondrial variant enrichment from high-throughput single-cell RNA-seq resolves clonal populations, [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.08.434450v1)
+Accompanying paper: Miller et al, Mitochondrial variant enrichment from high-throughput single-cell RNA-seq resolves clonal populations, [Nat Biotechnol](https://www.nature.com/articles/s41587-022-01210-8)
 
 ### [maegatk - Mitochondrial Alteration Enrichment and Genome Analysis Toolkit](https://github.com/caleblareau/maegatk)
 Developed by Caleb Lareau, the maegatk package processes `.bam` files with mitochondrial reads to generate high-quality heteroplasmy estimation from sequencing data.
